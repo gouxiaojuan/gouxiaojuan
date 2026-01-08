@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Xiaojuan Gou, a bioinformatics researcher
+I am Xiaojuan Gou, a Ph.D. student and bioinformatics researcher.
 
 ## About me
 I am a Ph.D. student at Huazhong Agricultural University (HZAU), China, with research interests in bioinformatics data analysis and software development. My current work focuses on single-cell RNA sequencing and spatial transcriptomics data analysis, as well as applications in neurobiology and immunology.
