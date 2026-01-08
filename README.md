@@ -8,6 +8,6 @@ I am a Ph.D. student at Huazhong Agricultural University (HZAU), China, with res
 During my Ph.D., I participated in a visiting research program at the University of New South Wales (UNSW), where I expanded my expertise in epigenomics, including ATAC-seq, ChIP-seq, and CUT&RUN data analysis, applied various approaches to investigate the conservation of regulatory elements across species, and learned to apply deep learning methods to biological data analysis.
 
 ## Contact me
-✉️ Email: xiaojuangou@foxmail.com
-🏠 Personal website: https://gouxiaojuan.github.io/
+✉️ Email: xiaojuangou@foxmail.com<br>
+🏠 Personal website: https://gouxiaojuan.github.io/<br>
 🌏 Chinese Blog: https://blog-cn-kappa.vercel.app/
