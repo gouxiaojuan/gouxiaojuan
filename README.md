@@ -48,7 +48,14 @@ During my Ph.D., I participated in a visiting research program at the University
 
 </div>
 
-
+## Research interests
+- Single-cell RNA-seq analysis  
+- Spatial transcriptomics  
+- Bioinformatics software development  
+- Neurobiology and immunology applications  
+- Epigenomics (ATAC-seq, ChIP-seq, CUT&RUN)  
+- Cross-species regulatory element analysis  
+- Deep learning in biological data
 
 
 ## Contact me
